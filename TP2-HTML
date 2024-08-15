@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receta de tiramisù ràpida y fàcil</title>
+</head>
+<body>
+    <h1>Còmo hacer tiramisù ràpido y fàcil, paso a paso</h1>
+
+    <h2>Ingredientes</h2>
+
+    <ul>
+        <li>250 gramos de queso mascarpone</li>
+        <li>200 ml de nata para montar</li>
+        <li>100 gramos de azùcar</li>
+        <li>1 paquete de bizcochos de soletilla</li>
+        <li>2 tazas de cafè fuerte (enfriado)</li>
+        <li>2 cucharadas de licor (opcional)</li>
+        <li>Cacao en polvo para espolvorear</li>
+    </ul>
+
+    <h2>Preparacion</h2>
+
+    <ol>
+        <li>Prepara el cafè fuerte y dèjalo enfriar. Si deseas añade el licor al cafè</li>
+        <li>En un bol Grande, bate la nata hasta que estè firme</li>
+        <li>En otro bol, mezcla el queso mascarpone con el azùcar hasta obtener una crema suave</li>
+        <li>Incorpora la nata montada a la mezcla de mascarpone y azùcar, mezclando suavemente hasta obtener una crema homogènea</li>
+        <li>Moja ràpidamente los bizcochos de soletilla en el cafè frìo, aseguràndote de que no se empapen demasiado</li>
+        <li>Coloca una capa de bizcochos empapados en el fondo de un molde rectangular</li>
+        <li>Cubre los bizcochos con una capa de la crema mascarpone</li>
+        <li>Repite las capaz de bizcochos y crema hasta llenar el molde, terminando con una capa de crema</li>
+        <li>Espolvorea generosamente cacao en polvo sobre la capa final de crema</li>
+        <li>Refrigera el tiramisù durante al menos 2 horas antes de servidr, para que los sabores se integren y la textura se asiente</li>
+    </ol>
+    <img src="https://s1.elespanol.com/2023/12/15/cocinillas/recetas/817428853_238446864_1706x1280.jpg">
+    
+    </body>
+    </html>
